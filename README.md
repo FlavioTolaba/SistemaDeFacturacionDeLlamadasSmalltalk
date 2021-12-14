@@ -1,4 +1,4 @@
-# Sistema De Facturacion DeLlamadas Smalltalk
+# Sistema De Facturacion De Llamadas Smalltalk
 Un sistema de facturacion de llamadas
 
 El sistema esta hecho con conceptos importantes de POO como lo son Polimorfismo, Herencia, patrones y TDD
