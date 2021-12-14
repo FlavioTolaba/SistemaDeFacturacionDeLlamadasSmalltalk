@@ -20,4 +20,4 @@ El sistema esta hecho con conceptos importantes de POO como lo son Polimorfismo,
 
 *el codigo esta hecho en CuisUniversity Smalltalk
 
-
+*al momento de imprimir la factura, imprime el nombre del dia y no la fecha como tal. Se debe modificar para que muestre la fecha.
