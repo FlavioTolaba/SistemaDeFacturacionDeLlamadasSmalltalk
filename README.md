@@ -6,7 +6,8 @@ El sistema esta hecho con conceptos importantes de POO como lo son Polimorfismo,
 ## como se hizo 
  
  
-**Antes de empezar a escribir codigo se realizo un diagrama UML
+*Antes de empezar a escribir codigo se realizo un diagrama UML
+
 *Se asume que el sistema realiza llamadas desde Buenos Aires
 *hay un usuario que realiza las llamadas
 *se utilizo patron State para elegir el costo por minuto de llamadas locales, segun si es dia habil diurno, nocturno o fin de semana
