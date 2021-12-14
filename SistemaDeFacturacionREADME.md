@@ -21,3 +21,5 @@ El sistema esta hecho con conceptos importantes de POO como lo son Polimorfismo,
 *el codigo esta hecho en CuisUniversity Smalltalk
 
 *al momento de imprimir la factura, imprime el nombre del dia y no la fecha como tal. Se debe modificar para que muestre la fecha.
+
+*otro detalle, YO asumo que en el sistema solo hay un usuario ya que al final quiero imprimir la factura de ese usuario, si bien no contemple que hubiera mas usuarios, por el momento no me parecio necesario ya que solo queria saber como es una factura y me bastaba con saber el del primer usuario del sistema, que ese usuario fue el que realizo llamadas para el Test
