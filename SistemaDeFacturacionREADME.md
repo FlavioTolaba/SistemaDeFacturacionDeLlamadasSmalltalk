@@ -23,3 +23,5 @@ El sistema esta hecho con conceptos importantes de POO como lo son Polimorfismo,
 *al momento de imprimir la factura, imprime el nombre del dia y no la fecha como tal. Se debe modificar para que muestre la fecha.
 
 *otro detalle, YO asumo que en el sistema solo hay un usuario ya que al final quiero imprimir la factura de ese usuario, si bien no contemple que hubiera mas usuarios, por el momento no me parecio necesario ya que solo queria saber como es una factura y me bastaba con saber el del primer usuario del sistema, que fue el que realizo llamadas para el Test
+
+*al momento de calcular el consumo total del periodo segun el mes, es decir, el costo total mensual de una factura de un usuario. NO se deberia tener en cuenta la fecha ya que solo nos importa el mes y el año para buscar esa factura. (se debe modificar a futuro)
